@@ -9,7 +9,7 @@ author: "Marco Team"
 
 Estamos encantados de lanzar el **Blog de Marco Travel** — un espacio donde compartimos inspiración viajera, guías de destinos, consejos prácticos y un vistazo entre bastidores de cómo funciona Marco.
 
-![Celebrate](/001/assets/celebrate.png)
+![Celebrate](/001/assets/celebrate.webp)
 
 ## Lo Que Encontrarás Aquí
 
