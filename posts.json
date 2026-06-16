@@ -3,13 +3,13 @@
     "slug": "hello-world",
     "path": "001",
     "title": {
-      "en": "Welcome to the Marco Blog",
-      "es": "Bienvenido al Blog de Marco"
+      "en": "🎉 Welcome to the Marco Blog",
+      "es": "🎉 Bienvenido al Blog de Marco"
     },
     "date": "2026-06-16",
     "excerpt": {
-      "en": "We're launching the Marco Travel Blog! Here you'll find travel tips, destination guides, stories from our community, and behind-the-scenes looks at how Marco works.",
-      "es": "¡Lanzamos el Blog de Marco Travel! Aquí encontrarás consejos de viaje, guías de destinos, historias de nuestra comunidad y miradas detrás de escena de cómo funciona Marco."
+      "en": "🌍 We're launching the Marco Travel Blog! Here you'll find travel tips, destination guides, stories from our community, and behind-the-scenes looks at how Marco works.",
+      "es": "🌍 ¡Lanzamos el Blog de Marco Travel! Aquí encontrarás consejos de viaje, guías de destinos, historias de nuestra comunidad y miradas detrás de escena de cómo funciona Marco."
     },
     "author": "Marco Team",
     "image": "001/assets/celebrate.webp"
