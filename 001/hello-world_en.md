@@ -9,7 +9,7 @@ author: "Marco Team"
 
 We're thrilled to launch the **Marco Travel Blog** — a space where we share travel inspiration, destination deep-dives, practical tips, and a peek behind the scenes of how Marco works.
 
-![Celebrate](/001/assets/celebrate.png)
+![Celebrate](/001/assets/celebrate.webp)
 
 ## What You'll Find Here
 
