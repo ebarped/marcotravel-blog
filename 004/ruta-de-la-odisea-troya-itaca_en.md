@@ -1,6 +1,6 @@
 <div style="font-family: 'Montserrat', sans-serif; color: #000000;">
 
-![Odyssey route map across the Mediterranean](assets/cabecera-odisea.webp)
+![Odyssey route map across the Mediterranean](assets/Cabecera-Odisea.png)
 
 # The Odyssey Route: 15 Days from Troy to Ithaca Following Odysseus
 
