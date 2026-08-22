@@ -1,6 +1,6 @@
 <div style="font-family: 'Montserrat', sans-serif; color: #000000;">
 
-![Ruta de la Odisea por el Mediterráneo](assets/cabecera-odisea.webp)
+![Ruta de la Odisea por el Mediterráneo](assets/Cabecera-Odisea.png)
 
 # Ruta de la Odisea: 15 días de Troya a Ítaca siguiendo a Odiseo
 
