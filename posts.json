@@ -28,5 +28,20 @@
     },
     "author": "Marco Team",
     "image": "002/assets/marco-primeros-pasos-funcionalidades.webp"
+  },
+  {
+    "slug": "ruta-de-la-odisea-troya-itaca",
+    "path": "004",
+    "title": {
+      "en": "The Odyssey Route: 15 Days from Troy to Ithaca Following Odysseus",
+      "es": "Ruta de la Odisea: 15 días de Troya a Ítaca siguiendo a Odiseo"
+    },
+    "date": "2026-08-16",
+    "excerpt": {
+      "en": "Follow Odysseus's journey: a real 15-day route through Turkey, Italy, and Greece with the exact locations of The Odyssey. Complete itinerary with MARCO.",
+      "es": "Sigue el viaje de Odiseo: ruta real de 15 días por Turquía, Italia y Grecia con los lugares exactos de La Odisea. Itinerario completo con MARCO."
+    },
+    "author": "anatorresruu",
+    "image": "004/assets/Cabecera-Odisea.png"
   }
 ]
