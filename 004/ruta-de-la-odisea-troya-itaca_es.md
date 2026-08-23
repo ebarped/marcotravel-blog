@@ -1,7 +1,5 @@
 <div style="font-family: 'Montserrat', sans-serif; color: #000000;">
 
-![Ruta de la Odisea por el Mediterráneo](assets/Cabecera-Odisea.png)
-
 # Ruta de la Odisea: 15 días de Troya a Ítaca siguiendo a Odiseo
 
 Hay una historia que lleva casi 2.800 años contándose: un hombre que solo quiere volver a casa, y un Mediterráneo entero que se interpone en su camino. Diez años de guerra en Troya, diez años más de tormentas, monstruos, hechiceras y dioses enfadados. Esa historia es <span style="color: #FF7F50; text-decoration: underline;">La Odisea</span>, ese hombre es <span style="color: #FF7F50; text-decoration: underline;">Odiseo</span>, y ese Mediterráneo... es prácticamente el mismo que puedes cruzar tú, hoy, en avión, ferry y coche de alquiler.
