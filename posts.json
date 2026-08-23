@@ -30,6 +30,21 @@
     "image": "002/assets/marco-primeros-pasos-funcionalidades.webp"
   },
   {
+    "slug": "galifornia-verano-galicia",
+    "path": "003",
+    "title": {
+      "en": "Summer in Galicia: 3 routes for your style",
+      "es": "Qué hacer un verano en Galicia: 3 rutas para elegir según tu estilo"
+    },
+    "date": "2026-08-09",
+    "excerpt": {
+      "en": "Discover 3 unique routes to enjoy the Galician summer: islands, lighthouses and vineyards.",
+      "es": "Descubre 3 rutas únicas para disfrutar del verano gallego: islas, faros y viñedos."
+    },
+    "author": "Marco Team",
+    "image": "003/assets/vista-aerea-cies.webp"
+  }
+  {
     "slug": "ruta-de-la-odisea-troya-itaca",
     "path": "004",
     "title": {
