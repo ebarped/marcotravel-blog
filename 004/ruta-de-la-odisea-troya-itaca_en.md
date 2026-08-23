@@ -1,7 +1,5 @@
 <div style="font-family: 'Montserrat', sans-serif; color: #000000;">
 
-![Odyssey route map across the Mediterranean](assets/Cabecera-Odisea.png)
-
 # The Odyssey route: 15 days from Troy to Ithaca following Odysseus
 
 There is a story that has been told for nearly 2,800 years: a man who just wants to go home, and an entire Mediterranean standing in his way. Ten years of war in Troy, ten more years of storms, monsters, sorceresses, and angry gods. That story is <span style="color: #FF7F50; font-weight: bold;">The Odyssey</span>, that man is <span style="color: #FF7F50; font-weight: bold;">Odysseus</span>, and that Mediterranean... is practically the same one you can cross today by plane, ferry, and rental car.
