@@ -26,6 +26,7 @@ Aquí, hace tres milenios, un ejército agotado y un héroe con más ingenio que
 ### Día 2 · Troya
 El asedio termina y empieza el verdadero relato: el regreso. Un día entero para recorrer las murallas superpuestas del yacimiento de **Hisarlik**, <span style="color: #FF7F50; font-weight: bold;">Patrimonio de la Humanidad</span>, y su museo, que convierte el mito en algo que se puede tocar.
 
+![Yacimiento arqueológico de Troya, Hisarlik, Turquía](https://images.pexels.com/photos/12646217/pexels-photo-12646217.jpeg)
 
 ## Capítulo 2: monstruos, dioses y magia en el sur de Italia
 
@@ -36,6 +37,8 @@ Transición hacia el Mediterráneo occidental. Instalación en Catania y primera
 
 ### Día 4 · Aci Trezza, la isla de los cíclopes
 El episodio que todo el mundo recuerda: Odiseo emborracha y ciega a Polifemo, y escapa de su cueva aferrado al vientre de sus propias ovejas antes de que el gigante, enloquecido de rabia, lance rocas enormes contra su barco. Esas rocas siguen ahí: son los <span style="color: #FF7F50; font-weight: bold;">Faraglioni dei Ciclopi</span>, ocho moles de basalto frente a este pueblo pesquero, con el Etna vigilando al fondo.
+
+![Faraglioni dei Ciclopi frente a Aci Trezza, Sicilia](https://images.pexels.com/photos/18782344/pexels-photo-18782344.jpeg)
 
 ### Día 5 · Estrecho de Mesina: Escila y Caribdis
 El paso más temido de todo el viaje, entre dos monstruos imposibles de esquivar a la vez: **Escila**, el acantilado de seis cabezas que devoraba marineros, y **Caribdis**, el remolino capaz de tragarse una nave entera. Odiseo tuvo que elegir el mal menor y sacrificar a seis de sus hombres. Hoy son dos miradores frente a frente —Torre Faro en Sicilia y Scilla en Calabria— antes de subir al ferry hacia el norte.
@@ -71,6 +74,8 @@ Odiseo despierta en su propia isla y, al principio, ni siquiera la reconoce: Ate
 
 ### Día 14 · Ítaca, el final del viaje
 Los escenarios que dan sentido a los catorce días anteriores: la colina de Pilikata, identificada con el <span style="color: #FF7F50; font-weight: bold;">palacio de Odiseo</span>, vistas a tres bahías y a Cefalonia recortada al fondo; y la misteriosa Cueva de las Ninfas, donde el héroe, con ayuda de Atenea, esconde los tesoros que le regalaron los feacios. Recorrido arqueológico por la isla y tarde de calma frente al mismo Jónico que lo mantuvo lejos de casa dos décadas.
+
+![Bahía de Vathy](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ithaki-Vathy.jpg/960px-Ithaki-Vathy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 ### Día 15 · De Ítaca a Atenas
 Se cierra el círculo: veinte años de guerra, destierro y pruebas quedan atrás, y el héroe recupera por fin su hogar. Ferry matutino desde Ítaca hasta el puerto continental y traslado por carretera al aeropuerto de Atenas para el vuelo de regreso.
