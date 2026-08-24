@@ -13,7 +13,7 @@ Esta es una forma de aprovechar un fin de semana en las **Rías Baixas** sin com
 
 ### <span style="color: #FF7F50; font-weight: bold;">Día 1 — Cíes u Ons</span>
 
-Ambas islas forman parte del **Parque Nacional Illas Atlánticas**, y eso implica una condición importante que conviene tener en cuenta: entre el 15 de mayo y el 15 de septiembre el acceso está limitado por ley, con un cupo diario de visitantes y autorización obligatoria además del billete de barco. No es una recomendación, es un requisito — en pleno agosto conviene solicitar la autorización en la [web oficial de la Xunta de Galicia](https://autorizacionillasatlanticas.xunta.gal) con al menos una semana de antelación. 
+Ambas islas forman parte del **Parque Nacional Illas Atlánticas**, y eso implica una condición importante que conviene tener en cuenta: entre el 15 de mayo y el 15 de septiembre el acceso está limitado por ley, con un cupo diario de visitantes y autorización obligatoria además del billete de barco. No es una recomendación, es un requisito — en pleno agosto conviene solicitar la autorización en la [web oficial de la Xunta de Galicia](https://autorizacionillasatlanticas.xunta.gal) con al menos una semana de antelación.
 
 A Cíes se llega desde Vigo, Cangas o Baiona; a Ons, desde Bueu, Portonovo o Sanxenxo, con una travesía de unos 40 minutos y menos aglomeración que en su hermana mayor. Sea cual sea tu elección, dedícale el día completo: playa, sendero y una vuelta tranquila, sin más planes en la agenda.
 
