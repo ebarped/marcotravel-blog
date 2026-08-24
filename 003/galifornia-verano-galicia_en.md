@@ -12,7 +12,7 @@ This is a way to enjoy a weekend in the **Rías Baixas** without complications: 
 
 ### <span style="color: #FF7F50; font-weight: bold;">Day 1 — Cíes or Ons</span>
 
-Both islands are part of the **Atlantic Islands National Park**, and that implies an important condition to keep in mind: between May 15 and September 15, access is limited by law, with a daily quota of visitors and mandatory authorization in addition to the boat ticket. It’s not a recommendation, it’s a requirement — in the middle of August, it is best to request authorization on the [official website of the Xunta de Galicia](https://autorizacionillasatlanticas.xunta.gal) at least a week in advance. 
+Both islands are part of the **Atlantic Islands National Park**, and that implies an important condition to keep in mind: between May 15 and September 15, access is limited by law, with a daily quota of visitors and mandatory authorization in addition to the boat ticket. It’s not a recommendation, it’s a requirement — in the middle of August, it is best to request authorization on the [official website of the Xunta de Galicia](https://autorizacionillasatlanticas.xunta.gal) at least a week in advance.
 
 The Cíes Islands can be reached from Vigo, Cangas, or Baiona; Ons from Bueu, Portonovo, or Sanxenxo, with a crossing of about 40 minutes and fewer crowds than its older sister. Whatever your choice, dedicate the full day to it: beach, trail, and a leisurely stroll, with no other plans on the agenda.
 
