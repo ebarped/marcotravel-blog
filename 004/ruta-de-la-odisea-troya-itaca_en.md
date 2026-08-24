@@ -26,6 +26,7 @@ Here, three millennia ago, an exhausted army and a hero with more wit than patie
 ### Day 2 · Troy
 The siege ends and the true tale begins: the journey home. A full day to explore the overlapping walls of the **Hisarlik** archaeological site, a <span style="color: #FF7F50; font-weight: bold;">World Heritage site</span>, and its museum, which turns myth into something you can touch.
 
+![Yacimiento arqueológico de Troya, Hisarlik, Turquía](https://images.pexels.com/photos/12646217/pexels-photo-12646217.jpeg)
 
 ## Chapter 2: Monsters, gods, and magic in southern Italy
 
@@ -36,6 +37,8 @@ Transition to the western Mediterranean. Check-in in Catania and a first Sicilia
 
 ### Day 4 · Aci Trezza, the island of the cyclopes
 The episode everyone remembers: Odysseus intoxicates and blinds Polyphemus, escaping his cave by clinging to the belly of his own sheep before the giant, maddened with rage, hurls huge rocks at his ship. Those rocks are still there: they are the <span style="color: #FF7F50; font-weight: bold;">Faraglioni dei Ciclopi</span>, eight basalt masses off this fishing village, with Mount Etna keeping watch in the background.
+
+![Faraglioni dei Ciclopi frente a Aci Trezza, Sicilia](https://images.pexels.com/photos/18782344/pexels-photo-18782344.jpeg)
 
 ### Day 5 · strait of Messina: Scylla and Charybdis
 The most feared crossing of the entire journey, between two monsters impossible to dodge at once: **Scylla**, the six-headed cliff that devoured sailors, and **Charybdis**, the whirlpool capable of swallowing an entire ship. Odysseus had to choose the lesser evil and sacrifice six of his men. Today they are two viewpoints facing each other —Torre Faro in Sicily and Scilla in Calabria— before boarding the ferry north.
@@ -71,6 +74,8 @@ Odysseus wakes up on his own island and at first doesn't even recognize it: Athe
 
 ### Day 14 · Ithaca, the end of the journey
 The settings that give meaning to the preceding fourteen days: the hill of Pilikata, identified with <span style="color: #FF7F50; font-weight: bold;">Odysseus's palace</span>, with views across three bays and Cephalonia outlined in the distance; and the mysterious Cave of the Nymphs, where the hero, with Athena's help, hides the treasures gifted by the Phaeacians. Archaeological tour of the island and a calm afternoon facing the very same Ionian Sea that kept him away from home for two decades.
+
+![Vathy bay](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Ithaki-Vathy.jpg/960px-Ithaki-Vathy.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail)
 
 ### Day 15 · From Ithaca to Athens
 The circle closes: twenty years of war, exile, and trials stay behind, and the hero finally recovers his home. Morning ferry from Ithaca to the continental port and road transfer to Athens airport for the return flight.
