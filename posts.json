@@ -58,5 +58,20 @@
     },
     "author": "Marco Team",
     "image": "004/assets/Cabecera-Odisea.png"
+  },
+  {
+    "slug": "rincones-de-roma-lugares-secretos",
+    "path": "005",
+    "title": {
+      "en": "Hidden gems in Rome: 10 lesser-known places to visit",
+      "es": "Rincones de Roma: 10 lugares secretos que visitar"
+    },
+    "date": "2026-08-23",
+    "excerpt": {
+      "en": "Discover 10 hidden gems in Rome beyond the Colosseum and Trevi Fountain: secret courtyards, churches with free masterpieces, and peaceful corners of the eternal city.",
+      "es": "Descubre 10 rincones de Roma más allá del Coliseo y la Fontana de Trevi: patios secretos, iglesias con obras maestras gratuitas y rincones tranquilos de la ciudad eterna."
+    },
+    "author": "Marco Team",
+    "image": "005/assets/rome-hidden-gems-galleria-sciarra.jpg"
   }
 ]
