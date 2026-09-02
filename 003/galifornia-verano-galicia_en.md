@@ -21,7 +21,7 @@ The problem is not a lack of plans in Galicia, the problem is that Galicia is in
 
 This is a way to make the most of a weekend in the <strong style="color: #ff7f50ff;">Rías Baixas</strong> without complications: a day on an island, a second day between Pontevedra and Combarro, and a sunset in Bueu to cap off the trip in style.
 
-### <span style="color: #FF7F50; font-weight: bold;">Day 1: Ons or Cíes</span>
+### Day 1: Ons or Cíes
 
 Both islands are part of the <strong style="color: #ff7f50ff;">Parque Nacional Illas Atlánticas</strong>, and that implies an important condition worth keeping in mind: between <strong style="color: #ff7f50ff;">May 15 and September 15</strong> access is limited by law, with a daily visitor quota and mandatory authorization in addition to the boat ticket. It is not a recommendation, it is a requirement; in the middle of August it is best to request authorization on the [official website of the Xunta de Galicia](https://autorizacionillasatlanticas.xunta.gal) at least a week in advance.
 
@@ -29,7 +29,7 @@ Cíes can be reached from Vigo, Cangas, or Baiona; Ons, from Bueu, Portonovo, or
 
 If you leave from Vigo, take the opportunity to explore <strong style="color: #ff7f50ff;">O Berbés</strong> before getting into the car. It is the seafaring neighborhood right next to the port, the fishing heart of the city for centuries that still preserves that essence, with traditional taverns where you can have dinner and quietly enjoy a glass of wine. If you set off from Bueu or Portonovo, a walk along the port and dinner at a local seafood restaurant serves the exact same purpose: wrapping up the day nicely before the second leg.
 
-### <span style="color: #FF7F50; font-weight: bold;">Day 2: Pontevedra, Combarro, and sunset in Bueu</span>
+### Day 2: Pontevedra, Combarro, and sunset in Bueu
 
 Start in Pontevedra, taking your time. Its old town is one of the best-preserved in Galicia, and moving from square to square: <strong style="color: #ff7f50ff;">Praza da Leña, Praza da Ferrería, Praza da Verdura</strong> is almost a game, as each one has its own distinct atmosphere. Along the way, drop by the <strong style="color: #ff7f50ff;">Igrexa da Peregrina</strong>, with its curious scallop-shell floor plan, one of the most recognizable images of the center. If you feel like grabbing a bite, the Praza da Verdura area brings together several traditional tapas bars. Save your real appetite for what comes next.
 
