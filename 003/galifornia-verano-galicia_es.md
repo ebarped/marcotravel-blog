@@ -21,7 +21,7 @@ El problema no es que falten planes en Galicia, el problema es que Galicia es in
 
 Esta es una forma de aprovechar un fin de semana en las <strong style="color: #ff7f50ff;">Rías Baixas</strong> sin complicarse: un día de isla, un segundo día entre Pontevedra y Combarro, y un atardecer en Bueu que cierra el viaje por todo lo alto.
 
-### <span style="color: #FF7F50; font-weight: bold;">Día 1: Ons o Cíes</span>
+### Día 1: Ons o Cíes
 
 Ambas islas forman parte del <strong style="color: #ff7f50ff;">Parque Nacional Illas Atlánticas</strong>, y eso implica una condición importante que conviene tener en cuenta: entre el <strong style="color: #ff7f50ff;">15 de mayo y 15 de septiembre</strong> el acceso está limitado por ley, con un cupo diario de visitantes y autorización obligatoria además del billete de barco. No es una recomendación, es un requisito; en pleno agosto conviene solicitar la autorización en la [web oficial de la Xunta de Galicia](https://autorizacionillasatlanticas.xunta.gal) con al menos una semana de antelación.
 
@@ -29,7 +29,7 @@ A Cíes se llega desde Vigo, Cangas o Baiona; a Ons, desde Bueu, Portonovo o San
 
 Si sales de Vigo, aprovecha para conocer <strong style="color: #ff7f50ff;">O Berbés</strong> antes de coger el coche. Es el barrio marinero pegado al puerto, corazón pesquero de la ciudad durante siglos y que todavía conserva esa esencia, con tabernas de toda la vida donde cenar y tomar un vino con calma. Si has salido de Bueu o Portonovo, un paseo por el puerto y cena en alguna marisquería de la zona cumple exactamente la misma función: cerrar bien el día antes de la segunda jornada.
 
-### <span style="color: #FF7F50; font-weight: bold;">Día 2: Pontevedra, Combarro y atardecer en Bueu</span>
+### Día 2: Pontevedra, Combarro y atardecer en Bueu
 
 Empieza por Pontevedra, sin prisa. Su casco viejo es de los mejor conservados de Galicia, y moverte de plaza en plaza: <strong style="color: #ff7f50ff;">Praza da Leña, Praza da Ferrería, Praza da Verdura</strong> es casi un juego, ya que cada una tiene su propio ambiente. De camino, asómate a la <strong style="color: #ff7f50ff;">Igrexa da Peregrina</strong>, con su curiosa planta en forma de vieira, una de las imágenes más reconocibles del centro. Si te apetece picar algo, la zona de la Praza da Verdura reúne varias taperías de toda la vida. Guarda el hambre de verdad para lo que viene después.
 
