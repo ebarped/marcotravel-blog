@@ -3,8 +3,8 @@
     "slug": "que-es-marco-como-funciona",
     "path": "001",
     "title": {
-    "en": "Discover MARCO: a new way to plan your trips",
-    "es": "Descubre MARCO: una nueva forma de planificar tus viajes"
+      "en": "Discover MARCO: a new way to plan your trips",
+      "es": "Descubre MARCO: una nueva forma de planificar tus viajes"
     },
     "date": "2026-07-26",
     "excerpt": {
@@ -58,5 +58,20 @@
     },
     "author": "Marco Team",
     "image": "004/assets/Cabecera-Odisea.png"
+  },
+  {
+    "slug": "rutas-camino-santiago-variante-espiritual-primitivo",
+    "path": "005",
+    "title": {
+      "en": "Two Camino de Santiago Routes: Spiritual Variant and Primitive Way",
+      "es": "Dos rutas del Camino de Santiago: Variante Espiritual y Camino Primitivo"
+    },
+    "date": "2026-08-26",
+    "excerpt": {
+      "en": "Discover two different Camino de Santiago routes: the Spiritual Variant of the Portuguese Way and the Primitive Way.",
+      "es": "Descubre dos rutas diferentes del Camino de Santiago: la Variante Espiritual del Camino Portugués y el Camino Primitivo."
+    },
+    "author": "Marco Team",
+    "image": "005/assets/camino-santiago-variante-espiritual-primitivo.webp"
   }
 ]
