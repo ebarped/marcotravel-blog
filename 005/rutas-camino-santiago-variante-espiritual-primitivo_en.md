@@ -229,8 +229,12 @@ Because walking the Camino is not only about reaching Santiago.
 
 **The Camino is everything that happens before you get there.**
 
-<div style="text-align: center; margin: 32px 0;">
-  <a href="https://marcotravel.io/" style="display: inline-block; background-color: #2563eb; color: white; text-decoration: none; padding: 14px 28px; border-radius: 999px; font-weight: 700; font-size: 16px;">
-    Discover your next trip with MARCO
+<p align="left">
+  <a href="https://play.google.com/store/apps/details?id=io.marcotravel.marco&pcampaignid=web_share" target="_blank" rel="noopener noreferrer">
+    <img
+      src="https://raw.githubusercontent.com/ebarped/marcotravel-blog/main/001/assets/google-play-badge.png"
+      alt="MARCO will be available soon on Google Play"
+      width="220"
+    />
   </a>
-</div>
+</p>
