@@ -233,7 +233,7 @@ Because walking the Camino is not only about reaching Santiago.
   <a href="https://play.google.com/store/apps/details?id=io.marcotravel.marco&pcampaignid=web_share" target="_blank" rel="noopener noreferrer">
     <img
       src="https://raw.githubusercontent.com/ebarped/marcotravel-blog/main/001/assets/google-play-badge.png"
-      alt="MARCO will be available soon on Google Play"
+      alt="MARCO is available on Google Play"
       width="220"
     />
   </a>
