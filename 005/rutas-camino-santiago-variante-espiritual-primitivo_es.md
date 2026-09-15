@@ -23,6 +23,7 @@ Uno tiene mar, viñedos y pueblos costeros. El otro tiene montaña, desnivel y u
 
 Vamos con ellos.
 
+
 ## Variante Espiritual del Camino Portugués: entre monasterios, mar y viñedos
 
 El Camino Portugués es una de las rutas más conocidas para llegar a Santiago.Pero cuando alcanzas Pontevedra <strong style="color: #ff7f50ff;">aparece una opción bastante interesante</strong>: abandonar temporalmente el recorrido tradicional y continuar por la conocida como Variante Espiritual del Camino Portugués.
@@ -30,6 +31,7 @@ El Camino Portugués es una de las rutas más conocidas para llegar a Santiago.P
 Y el nombre ya promete.
 
 La ruta continúa hacia Poio, Combarro, A Armenteira y Vilanova de Arousa antes de volver a conectar con el Camino en dirección a Santiago. Lo interesante de esta variante es todo lo que consigue concentrar en relativamente pocos días: <strong style="color: #ff7f50ff;">centros históricos, pueblos marineros, monasterios, bosques, antiguos molinos, viñedos y, finalmente, la ría de Arousa</strong>.
+
 
 ### De Pontevedra a Armenteira pasando por Combarro
 
@@ -47,6 +49,7 @@ Y todavía queda bastante.
   style="width: 100%; height: auto;"
 />
 
+
 ### La Ruta da Pedra e da Auga
 
 La siguiente parte incluye uno de los tramos más especiales de toda la Variante Espiritual: la <strong style="color: #ff7f50ff;">Ruta da Pedra e da Auga</strong>.
@@ -58,6 +61,7 @@ Desde Armenteira, el camino comienza a descender siguiendo el curso del río ent
 Después el paisaje vuelve a cambiar.
 
 Aparecen pequeñas localidades, los viñedos característicos de O Salnés y poco a poco comienza a sentirse otra vez la cercanía de la ría. El recorrido continúa hasta <strong style="color: #ff7f50ff;">Vilanova de Arousa</strong>. Y aquí llega probablemente la parte más peculiar de todo el Camino.
+
 
 ### ¿Hacer el Camino de Santiago en barco?
 
@@ -71,11 +75,13 @@ El trayecto dura aproximadamente una hora y media. No obstante, los horarios de 
 
 También existe una alternativa terrestre para quienes quieran realizar todo el recorrido caminando, pero la navegación es precisamente una de las características que hacen tan diferente a esta variante. La Variante Espiritual del Camino Portugués es una opción especialmente interesante si quieres combinar Camino, naturaleza, costa, patrimonio y gastronomía sin meterte necesariamente en una ruta de varias semanas.
 
+
 <div style="text-align: center; margin: 32px 0;">
   <a href="https://marcotravel.io/" style="display: inline-block; background-color: #2563eb; color: white; text-decoration: none; padding: 14px 28px; border-radius: 999px; font-weight: 700; font-size: 16px;">
     Quiero hacer esta ruta
   </a>
 </div>
+
 
 ## Camino Primitivo: volver al origen del Camino de Santiago
 
@@ -86,6 +92,7 @@ Esta vez dejamos un poco de lado el mar y nos vamos a la montaña. El <strong st
 Su origen está relacionado con las primeras peregrinaciones a Compostela durante la Edad Media. Más de mil años después, miles de peregrinos siguen recorriendo esta ruta.
 
 Aunque probablemente ahora con mejores zapatillas.
+
 
 ### Un Camino marcado por la montaña
 
@@ -105,6 +112,7 @@ Las condiciones meteorológicas también pueden jugar su papel, especialmente en
   style="width: 100%; height: auto;"
 />
 
+
 ### La entrada en Galicia por A Fonsagrada
 
 Después de atravesar Asturias llega uno de esos momentos que hacen especial cualquier Camino: entrar en Galicia.
@@ -119,6 +127,7 @@ Y ahí cambia bastante la película.
 
 Más peregrinos, más ambiente y las últimas etapas compartidas hacia Arzúa, O Pedrouzo y, finalmente, Santiago de Compostela.
 
+
 ## Entonces… ¿Variante Espiritual o Camino Primitivo?
 
 Como decimos en Galicia: Depende.
@@ -128,6 +137,7 @@ La  <strong style="color: #ff7f50ff;">Variante Espiritual del Camino Portugués<
 El  <strong style="color: #ff7f50ff;">Camino Primitivo</strong>, en cambio, exige un poquito más. Es una ruta para quien disfruta caminando, no tiene demasiado miedo a los desniveles y busca una experiencia más conectada con la montaña, los paisajes rurales y los propios orígenes del Camino de Santiago.
 
 Uno mira continuamente hacia el mar. El otro hacia la siguiente montaña.
+
 
 ## El Camino empieza mucho antes de llegar a Santiago
 
@@ -143,7 +153,9 @@ Queremos ayudarte a convertir toda esa información en un viaje organizado y ada
 
 Porque hacer el Camino no consiste únicamente en llegar a Santiago.
 
+
 **El Camino es todo lo que ocurre antes.**
+
 
 <p align="left">
   <a href="https://play.google.com/store" target="_blank" rel="noopener noreferrer">
