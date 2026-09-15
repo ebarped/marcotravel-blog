@@ -23,6 +23,7 @@ Uno tiene mar, viñedos y pueblos costeros. El otro tiene montaña, desnivel y u
 
 Vamos con ellos.
 
+<div style="height: 32px;"></div>
 
 ## Variante Espiritual del Camino Portugués: entre monasterios, mar y viñedos
 
@@ -32,6 +33,7 @@ Y el nombre ya promete.
 
 La ruta continúa hacia Poio, Combarro, A Armenteira y Vilanova de Arousa antes de volver a conectar con el Camino en dirección a Santiago. Lo interesante de esta variante es todo lo que consigue concentrar en relativamente pocos días: <strong style="color: #ff7f50ff;">centros históricos, pueblos marineros, monasterios, bosques, antiguos molinos, viñedos y, finalmente, la ría de Arousa</strong>.
 
+<div style="height: 32px;"></div>
 
 ### De Pontevedra a Armenteira pasando por Combarro
 
@@ -49,6 +51,7 @@ Y todavía queda bastante.
   style="width: 100%; height: auto;"
 />
 
+<div style="height: 32px;"></div>
 
 ### La Ruta da Pedra e da Auga
 
@@ -62,6 +65,7 @@ Después el paisaje vuelve a cambiar.
 
 Aparecen pequeñas localidades, los viñedos característicos de O Salnés y poco a poco comienza a sentirse otra vez la cercanía de la ría. El recorrido continúa hasta <strong style="color: #ff7f50ff;">Vilanova de Arousa</strong>. Y aquí llega probablemente la parte más peculiar de todo el Camino.
 
+<div style="height: 32px;"></div>
 
 ### ¿Hacer el Camino de Santiago en barco?
 
@@ -82,6 +86,7 @@ También existe una alternativa terrestre para quienes quieran realizar todo el 
   </a>
 </div>
 
+<hr style="border: 0; border-top: 1px solid #eadfce; margin: 48px 0;" />
 
 ## Camino Primitivo: volver al origen del Camino de Santiago
 
@@ -93,6 +98,7 @@ Su origen está relacionado con las primeras peregrinaciones a Compostela durant
 
 Aunque probablemente ahora con mejores zapatillas.
 
+<div style="height: 32px;"></div>
 
 ### Un Camino marcado por la montaña
 
@@ -112,6 +118,7 @@ Las condiciones meteorológicas también pueden jugar su papel, especialmente en
   style="width: 100%; height: auto;"
 />
 
+<div style="height: 32px;"></div>
 
 ### La entrada en Galicia por A Fonsagrada
 
@@ -127,6 +134,7 @@ Y ahí cambia bastante la película.
 
 Más peregrinos, más ambiente y las últimas etapas compartidas hacia Arzúa, O Pedrouzo y, finalmente, Santiago de Compostela.
 
+<div style="height: 32px;"></div>
 
 ## Entonces… ¿Variante Espiritual o Camino Primitivo?
 
@@ -138,6 +146,7 @@ El  <strong style="color: #ff7f50ff;">Camino Primitivo</strong>, en cambio, exig
 
 Uno mira continuamente hacia el mar. El otro hacia la siguiente montaña.
 
+<div style="height: 32px;"></div>
 
 ## El Camino empieza mucho antes de llegar a Santiago
 
@@ -153,9 +162,11 @@ Queremos ayudarte a convertir toda esa información en un viaje organizado y ada
 
 Porque hacer el Camino no consiste únicamente en llegar a Santiago.
 
+<div style="height: 32px;"></div>
 
-**El Camino es todo lo que ocurre antes.**
+**El Camino es todo lo que ocurre antes y durante.**
 
+<div style="height: 32px;"></div>
 
 <p align="left">
   <a href="https://play.google.com/store" target="_blank" rel="noopener noreferrer">
