@@ -17,6 +17,8 @@ El problema no es que falten planes en Galicia, el problema es que Galicia es in
   </a>
 </div>
 
+<div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
+
 ## Plan 1: Un fin de semana de islas, hórreos y el mejor atardecer de tu vida
 
 Esta es una forma de aprovechar un fin de semana en las <strong style="color: #ff7f50ff;">Rías Baixas</strong> sin complicarse: un día de isla, un segundo día entre Pontevedra y Combarro, y un atardecer en Bueu que cierra el viaje por todo lo alto.
@@ -39,6 +41,8 @@ Continúa hacia <strong style="color: #ff7f50ff;">Combarro</strong> y come allí
 
 Para cerrar el día, el momento que no conviene perderse, el atardecer en Tuia o Portomaior. Ninguna de las dos playas se disfruta con prisa, así que llega con tiempo. En Portomaior, el <strong style="color: #ff7f50ff;">Chiringuito Carmela</strong> es una apuesta segura, con buena compañía y una mesa frente al mar. En Tuia, más recogida y con menos gente, el <strong style="color: #ff7f50ff;">Chiringuito Galifornia</strong> tiene fama por sus mojitos. Ambos ofrecen servicio de cenas y, algunas noches de verano, conciertos en directo mientras el sol se despide sobre la ría. Sea cual sea tu elección, el atardecer es la mejor forma de cerrar el día. No hace falta más.
 
+<div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
+
 ## Plan 2: La Ruta de los Faros, un tramo bien vivido
 
 La <strong style="color: #ff7f50ff;">Ruta de los faros</strong> recorre unos 200 km a lo largo de la <strong style="color: #ff7f50ff;">Costa da Morte</strong>, uniendo faros, acantilados y pueblos de pescadores en uno de los itinerarios costeros más espectaculares de Galicia. Recorrerla entera en un solo día no es la mejor idea; la forma de disfrutarla de verdad en una escapada es elegir un tramo y recorrerlo con calma.
@@ -53,6 +57,8 @@ Para comer, en Fisterra una buena opción es el <strong style="color: #ff7f50ff;
 
 La clave del Plan 2 no está en completar los 200 km, sino en quedarte con las ganas de volver el año que viene a por el siguiente tramo.
 
+<div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
+
 ## Plan 3: Ribeira Sacra, el otro verano gallego
 
 Si los dos primeros planes tienen sabor a mar, la <strong style="color: #ff7f50ff;">Ribeira Sacra</strong> es el verano gallego de interior: cañones excavados por los ríos Sil y Miño, viñedos heroicos en bancales imposibles y monasterios que llevan siglos formando parte del paisaje.
@@ -65,6 +71,8 @@ En tierra, dos paradas dan forma al día: el <strong style="color: #ff7f50ff;">M
 ![Cañón del Sil y viñedos de la Ribeira Sacra](https://st5.depositphotos.com/2071605/71639/i/600/depositphotos_716395828-stock-photo-landscape-sil-river-ribeira-sacra.jpg)
 
 Y ya que estás en zona de viñedo, merece la pena hacer una cata en alguna bodega de <span style="color: #FF7F50; font-weight: bold;">mencía o godello</span>, las dos variedades que definen la Ribeira Sacra. Para comer, <strong style="color: #ff7f50ff;">A Faragulla</strong>, en el casco histórico de Chantada, es una recomendación segura: cocina de producto gallego bien tratada, en un ambiente sencillo y cercano, perfecto para cerrar un plan tan gallego y tan de verano como los otros dos, aunque tenga poco de costa.
+
+<div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
 
 ## Tres planes, un solo verano
 
