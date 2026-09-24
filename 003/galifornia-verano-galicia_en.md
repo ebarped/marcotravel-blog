@@ -17,6 +17,8 @@ The problem is not a lack of plans in Galicia, the problem is that Galicia is in
   </a>
 </div>
 
+<div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
+
 ## Plan 1: A weekend of islands, hórreos, and the best sunset of your life
 
 This is a way to make the most of a weekend in the <strong style="color: #ff7f50ff;">Rías Baixas</strong> without complications: a day on an island, a second day between Pontevedra and Combarro, and a sunset in Bueu to cap off the trip in style.
@@ -39,6 +41,8 @@ Continue toward <strong style="color: #ff7f50ff;">Combarro</strong> and have lun
 
 To close out the day, a moment you shouldn't miss: the sunset at Tuia or Portomaior. Neither of the two beaches should be rushed, so arrive with time to spare. At Portomaior, <strong style="color: #ff7f50ff;">Chiringuito Carmela</strong> is a safe bet, with good company and a table facing the sea. At Tuia, more secluded and less crowded, <strong style="color: #ff7f50ff;">Chiringuito Galifornia</strong> is famous for its mojitos. Both offer dinner service and, on some summer nights, live concerts while the sun bids farewell over the estuary. Whatever your choice, the sunset is the best way to close the day. Nothing more is needed.
 
+<div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
+
 ## Plan 2: The Lighthouse Route, a stretch well-lived
 
 The <strong style="color: #ff7f50ff;">Ruta de los Faros</strong> spans about 200 km along the <strong style="color: #ff7f50ff;">Costa da Morte</strong>, uniting lighthouses, cliffs, and fishing villages into one of Galicia's most spectacular coastal itineraries. Doing the whole thing in a single day is not the best idea; the way to truly enjoy it on a getaway is to choose a section and travel it calmly.
@@ -53,6 +57,8 @@ For lunch, in Fisterra a good option is <strong style="color: #ff7f50ff;">Restau
 
 The key to Plan 2 is not completing the 200 km, but rather leaving you eager to come back next year for the next section.
 
+<div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
+
 ## Plan 3: Ribeira Sacra, the other Galician summer
 
 If the first two plans taste like the sea, the <strong style="color: #ff7f50ff;">Ribeira Sacra</strong> is the inland Galician summer: canyons carved out by the Sil and Miño rivers, heroic vineyards on impossible terraces, and monasteries that have been part of the landscape for centuries.
@@ -64,6 +70,8 @@ On land, two stops shape the day: the <strong style="color: #ff7f50ff;">Monaster
 ![Cañón del Sil y viñedos de la Ribeira Sacra](https://st5.depositphotos.com/2071605/71639/i/600/depositphotos_716395828-stock-photo-landscape-sil-river-ribeira-sacra.jpg)
 
 And since you are in a vineyard area, it is worth doing a tasting at a winery producing <span style="color: #FF7F50; font-weight: bold;">Mencía or Godello</span>, the two varieties that define Ribeira Sacra. For lunch, <strong style="color: #ff7f50ff;">A Faragulla</strong>, in the historic center of Chantada, is a safe recommendation: well-prepared Galician product cuisine in a simple and close environment, perfect to wrap up a plan as Galician and summery as the other two, even if it has little coastline.
+
+<div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
 
 ## Three plans, a single summer
 
