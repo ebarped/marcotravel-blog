@@ -19,6 +19,7 @@ Con todo ese material, desde <span style="color: #FF7F50; font-weight: bold;">Ma
   </a>
 </div>
 
+<div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
 
 ## El itinerario de la Odisea, de un vistazo
 
@@ -26,6 +27,7 @@ Con todo ese material, desde <span style="color: #FF7F50; font-weight: bold;">Ma
 * **Días 3-9 · Sur de Italia**: Aci Trezza (cíclopes), estrecho de Mesina (Escila y Caribdis), islas Eolias (Eolo), costa de Nápoles (sirenas e inframundo) y Monte Circeo (Circe).
 * **Días 10-15 · Grecia**: Corfú (los feacios) e Ítaca (el palacio de Odiseo).
 
+  <div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
 
 ## Capítulo 1: donde todo empieza
 
@@ -38,6 +40,8 @@ Aquí, hace tres milenios, un ejército agotado y un héroe con más ingenio que
 El asedio termina y empieza el relato de verdad: el del regreso. Un día entero para recorrer las murallas superpuestas del yacimiento de <span style="color: #FF7F50; font-weight: bold;">Hisarlik</span>,Patrimonio de la Humanidad, y su museo, que convierte el mito en algo que casi se puede tocar con las manos.
 
 ![Yacimiento arqueológico de Troya, Hisarlik, Turquía](https://images.pexels.com/photos/12646217/pexels-photo-12646217.jpeg)
+
+<div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
 
 ## Capítulo 2: monstruos, dioses y magia en el sur de Italia
 
@@ -66,6 +70,7 @@ Doble episodio, una sola jornada. Frente a los islotes de Li Galli, Odiseo se ha
 ### Día 9 · Monte Circeo, la isla de Circe
 La hechicera más famosa de la mitología griega convierte a parte de la tripulación en cerdos y retiene a Odiseo durante un año entero. Subida al promontorio de San Felice Circeo, su pueblo medieval amurallado y los restos ciclópeos de su antigua acrópolis; traslado nocturno a Roma para cerrar el capítulo italiano por todo lo alto.
 
+<div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
 
 ## Capítulo 3: la hospitalidad y el regreso a Ítaca
 
@@ -91,6 +96,7 @@ Los escenarios que dan sentido a los catorce días anteriores: la colina de Pili
 ### Día 15 · De Ítaca a Atenas
 Se cierra el círculo: veinte años de guerra, destierro y pruebas quedan atrás, y el héroe recupera por fin su hogar. Ferry matutino desde Ítaca hasta el puerto continental y traslado por carretera al aeropuerto de Atenas para el vuelo de regreso.
 
+<div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
 
 ## Ahora te toca a ti escribir el final 
 
