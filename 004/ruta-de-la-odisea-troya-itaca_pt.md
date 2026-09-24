@@ -19,6 +19,7 @@ Com todo esse material, na <span style="color: #FF7F50; font-weight: bold;">Marc
   </a>
 </div>
 
+<div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
 
 ## O itinerário da Odisseia, num relance
 
@@ -26,6 +27,7 @@ Com todo esse material, na <span style="color: #FF7F50; font-weight: bold;">Marc
 * **Dias 3-9 · Sul de Itália**: Aci Trezza (ciclopes), estreito de Messina (Cila e Caríbdis), ilhas Eólias (Éolo), costa de Nápoles (sereias e submundo) e Monte Circeo (Circe).
 * **Dias 10-15 · Grécia**: Corfu (os feácios) e Ítaca (o palácio de Ulisses).
 
+<div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
 
 ## Capítulo 1: onde tudo começa
 
@@ -38,6 +40,8 @@ Aqui, há três milénios, um exército exausto e um herói com mais engenho do 
 O cerco termina e começa a verdadeira história: a do regresso. Um dia inteiro para percorrer as muralhas sobrepostas do sítio arqueológico de <span style="color: #FF7F50; font-weight: bold;">Hisarlik</span>, Património Mundial, e o seu museu, que transforma o mito em algo que quase se pode tocar com as mãos.
 
 ![Sítio arqueológico de Troia, Hisarlik, Turquia](https://images.pexels.com/photos/12646217/pexels-photo-12646217.jpeg)
+
+<div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
 
 ## Capítulo 2: monstros, deuses e magia no sul de Itália
 
@@ -66,6 +70,8 @@ Duplo episódio, uma só jornada. Em frente aos ilhéus de Li Galli, Ulisses man
 ### Dia 9 · Monte Circeo, a ilha de Circe
 A feiticeira mais famosa da mitologia grega transforma parte da tripulação em porcos e retém Ulisses durante um ano inteiro. Subida ao promontório de San Felice Circeo, à sua vila medieval amuralhada e aos vestígios ciclópicos da sua antiga acrópole; transferência noturna para Roma para encerrar o capítulo italiano em grande.
 
+<div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
+
 ## Capítulo 3: a hospitalidade e o regresso a Ítaca
 
 Depois do caos, a calma. A última parte do poema (e desta rota) é a da hospitalidade, dos últimos obstáculos e, finalmente, da chegada a casa.
@@ -90,6 +96,7 @@ Os cenários que dão sentido aos catorze dias anteriores: a colina de Pilikata,
 ### Dia 15 · De Ítaca a Atenas
 Fecha-se o círculo: vinte anos de guerra, exílio e provações ficam para trás, e o herói recupera finalmente o seu lar. Ferry de manhã desde Ítaca até ao porto continental e transfer por estrada para o aeroporto de Atenas para o voo de regresso.
 
+<div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
 
 ## Agora cabe-te a ti escrever o final 
 
