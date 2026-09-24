@@ -19,6 +19,7 @@ With all that material, at <span style="color: #FF7F50; font-weight: bold;">Marc
   </a>
 </div>
 
+<div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
 
 ## The Odyssey ttinerary at a glance
 
@@ -26,6 +27,7 @@ With all that material, at <span style="color: #FF7F50; font-weight: bold;">Marc
 * **Days 3-9 · Southern Italy**: Aci Trezza (the Cyclops), the Strait of Messina (Scylla and Charybdis), the Aeolian Islands (Aeolus), the coast of Naples (Sirens and the Underworld), and Monte Circeo (Circe).
 * **Days 10-15 · Greece**: Corfu (the Phaeacians) and Ithaca (the palace of Odysseus).
 
+<div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
 
 ## Chapter 1: Where it all begins
 
@@ -38,6 +40,8 @@ Here, three thousand years ago, an exhausted army and a hero with more cunning t
 The siege ends and the real story begins: the return home. A full day exploring the layered walls of the <span style="color: #FF7F50; font-weight: bold;">Hisarlik</span> site, a UNESCO World Heritage Site, and its museum, which turns myth into something you can almost touch.
 
 ![Archaeological site of Troy, Hisarlik, Turkey](https://images.pexels.com/photos/12646217/pexels-photo-12646217.jpeg)
+
+<div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
 
 ## Chapter 2: Monsters, Gods, and magic in southern Italy
 
@@ -66,6 +70,7 @@ Two episodes, one single day. Off the Li Galli islets, Odysseus has himself tied
 ### Day 9 · Monte Circeo, Circe's Island
 Mythology's most famous sorceress turns part of the crew into pigs and keeps Odysseus there for a full year. A climb up the San Felice Circeo promontory, its walled medieval village, and the cyclopean remains of its ancient acropolis; overnight transfer to Rome to close out the Italian chapter in style.
 
+<div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
 
 ## Chapter 3: Hospitality and the return to Ithaca
 
@@ -91,6 +96,7 @@ The settings that give meaning to the previous fourteen days: Pilikata hill, ide
 ### Day 15 · From Ithaca to Athens
 The circle closes: twenty years of war, exile, and trials are behind him, and the hero finally reclaims his home. Morning ferry from Ithaca to the mainland port and road transfer to Athens airport for the flight home.
 
+<div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
 
 ## Now it's your turn to write the ending
 
