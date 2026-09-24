@@ -17,6 +17,8 @@ O problema não é faltarem planos na Galiza, o problema é que a Galiza é infi
   </a>
 </div>
 
+<div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
+
 ## Plano 1: Um fim de semana de ilhas, espigueiros e o melhor pôr do sol da tua vida
 
 Esta é uma forma de aproveitar um fim de semana nas <strong style="color: #ff7f50ff;">Rías Baixas</strong> sem complicações: um dia numa ilha, um segundo dia entre Pontevedra e Combarro, e um pôr do sol em Bueu que fecha a viagem em grande.
@@ -39,6 +41,8 @@ Continua até <strong style="color: #ff7f50ff;">Combarro</strong> e almoça lá.
 
 Para fechar o dia, o momento que não convém perder: o pôr do sol em Tuia ou Portomaior. Nenhuma das duas praias se desfruta com pressa, por isso chega com tempo. Em Portomaior, o <strong style="color: #ff7f50ff;">Chiringuito Carmela</strong> é uma aposta segura, com boa companhia e uma mesa em frente ao mar. Em Tuia, mais resguardada e com menos gente, o <strong style="color: #ff7f50ff;">Chiringuito Galifornia</strong> tem fama pelos seus mojitos. Ambos oferecem serviço de jantar e, em algumas noites de verão, concertos ao vivo enquanto o sol se despede sobre a ria. Seja qual for a tua escolha, o pôr do sol é a melhor forma de fechar o dia. Não é preciso mais nada.
 
+<div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
+
 ## Plano 2: A Rota dos Faróis, um percurso para desfrutar
 
 A <strong style="color: #ff7f50ff;">Rota dos Faróis</strong> percorre cerca de 200 km ao longo da <strong style="color: #ff7f50ff;">Costa da Morte</strong>, ligando faróis, falésias e aldeias piscatórias num dos itinerários costeiros mais espetaculares da Galiza. Percorrê-la inteira num só dia não é a melhor ideia; a forma de a desfrutar verdadeiramente numa escapadinha é escolher um troço e percorrê-lo com calma.
@@ -53,6 +57,8 @@ Para comer, em Fisterra uma boa opção é o <strong style="color: #ff7f50ff;">R
 
 A chave do Plano 2 não está em completar os 200 km, mas em ficares com vontade de voltar no próximo ano para fazer o troço seguinte.
 
+<div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
+
 ## Plano 3: Ribeira Sacra, o outro verão galego
 
 Se os dois primeiros planos têm sabor a mar, a <strong style="color: #ff7f50ff;">Ribeira Sacra</strong> é o verão galego de interior: desfiladeiros escavados pelos rios Sil e Minho, vinhas heroicas em socalcos impossíveis e mosteiros que há séculos fazem parte da paisagem.
@@ -64,6 +70,8 @@ Em terra, duas paragens dão forma ao dia: o <strong style="color: #ff7f50ff;">M
 ![Cañón del Sil e vinhas da Ribeira Sacra](https://st5.depositphotos.com/2071605/71639/i/600/depositphotos_716395828-stock-photo-landscape-sil-river-ribeira-sacra.jpg)
 
 E já que estás numa zona de vinhas, vale a pena fazer uma prova numa das adegas de <span style="color: #FF7F50; font-weight: bold;">mencía ou godello</span>, as duas variedades que definem a Ribeira Sacra. Para comer, <strong style="color: #ff7f50ff;">A Faragulla</strong>, no centro histórico de Chantada, é uma recomendação segura: cozinha de produto galego bem confecionada, num ambiente simples e acolhedor, perfeito para fechar um plano tão galego e tão de verão como os outros dois, embora tenha pouco de costa.
+
+<div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
 
 ## Três planos, um só verão
 
