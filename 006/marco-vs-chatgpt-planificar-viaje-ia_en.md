@@ -101,28 +101,6 @@ A general-purpose AI can also share conversations, projects or information betwe
 
 <div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
 
-## MARCO vs ChatGPT: what actually changes?
-
-ChatGPT and MARCO both use artificial intelligence, but they are designed to solve different problems. A general-purpose AI is built to have conversations, answer questions, research topics and help you with a huge variety of tasks.
-
-MARCO focuses on just one. <strong style="color: #ff7f50ff;">Being your perfect travel companion.</strong>
-
-| Feature | General-purpose AI | MARCO |
-| --- | --- | --- |
-| Find travel inspiration | Yes | Yes |
-| Generate an itinerary proposal | Yes | Yes |
-| Personalize according to preferences | Yes | Yes |
-| Access information through conversation | Yes | Yes |
-| Visual day-by-day itinerary | Depends on the tool | Yes |
-| View the trip on a dedicated map | Depends on the tool | Yes |
-| Edit activities directly from the itinerary | Not as a dedicated travel flow | Yes |
-| Build days manually | Not as a dedicated travel planner | Yes |
-| Share a travel space with the group | Not as a travel-specific experience | Yes |
-| Manage trip expenses | Not as a travel-specific feature | Yes |
-| Gamified experiences during the trip | Not as a travel-specific experience | Coming soon |
-
-<div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
-
 ## From travel planner to travel companion
 
 Our vision does not end once your itinerary is ready. We want MARCO to accompany you while you discover the destination and turn some parts of the trip into more interactive experiences.
