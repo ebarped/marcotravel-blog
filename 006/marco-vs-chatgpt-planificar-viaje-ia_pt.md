@@ -101,28 +101,6 @@ Uma IA generalista também pode partilhar conversas, projetos ou informação en
 
 <div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
 
-## MARCO vs ChatGPT: o que muda realmente?
-
-O ChatGPT e o MARCO utilizam inteligência artificial, mas foram pensados para resolver problemas diferentes. Uma IA generalista foi criada para conversar, responder a perguntas, pesquisar e ajudar-te numa enorme variedade de tarefas.
-
-O MARCO está focado apenas numa. <strong style="color: #ff7f50ff;">Ser o teu companheiro de viagem perfeito.</strong>
-
-| Funcionalidade | IA generalista | MARCO |
-| --- | --- | --- |
-| Procurar inspiração para uma viagem | Sim | Sim |
-| Gerar uma proposta de itinerário | Sim | Sim |
-| Personalizar segundo as preferências | Sim | Sim |
-| Consultar informação através de conversa | Sim | Sim |
-| Itinerário visual organizado por dias | Depende da ferramenta | Sim |
-| Visualizar a viagem num mapa dedicado | Depende da ferramenta | Sim |
-| Editar atividades diretamente no itinerário | Não como fluxo de viagem dedicado | Sim |
-| Construir dias manualmente | Não como planeador dedicado | Sim |
-| Partilhar um espaço de viagem com o grupo | Não como experiência específica de viagem | Sim |
-| Gestão das despesas da viagem | Não como funcionalidade específica de viagem | Sim |
-| Experiências gamificadas durante a viagem | Não como experiência específica | A caminho |
-
-<div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
-
 ## De planeador a companheiro de viagem
 
 A nossa visão não termina quando tens o itinerário preparado. Queremos que o MARCO possa acompanhar-te também enquanto descobres o destino e transformar alguns elementos da viagem em experiências mais interativas.
