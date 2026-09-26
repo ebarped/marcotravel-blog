@@ -61,10 +61,11 @@ Y aparece ese clásico universal de cualquier viaje en grupo:
 
 La IA ha ayudado a generar información, pero ahora necesitas <strong style="color: #ff7f50ff;">convertir esa información en una experiencia organizada</strong>.
 
-<!-- IMAGEN 1
-Sugerencia: composición visual "chat con itinerario" frente a "itinerario estructurado en MARCO".
-Ideal para explicar el paso de conversación a viaje.
--->
+<img
+  src="https://raw.githubusercontent.com/ebarped/marcotravel-blog/main/006/assets/marco-vs-chatgpt-conversacion-viaje-organizado.webp"
+  alt="Comparación entre planificar un viaje con ChatGPT y organizarlo visualmente con MARCO."
+  style="width: 100%; height: auto;"
+/>
 
 <div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
 
@@ -80,7 +81,7 @@ El objetivo es dar a los usuarios una base sólida y sencilla sobre la que pueda
 
 <div style="text-align: center; margin: 48px 0;">
   <a href="https://marcotravel.io/" style="display: inline-block; background-color: #2563eb; color: white; text-decoration: none; padding: 14px 28px; border-radius: 999px; font-weight: 700; font-size: 16px;">
-    Crea tu próximo viaje con MARCO
+    Planifica tu próximo viaje
   </a>
 </div>
 
@@ -134,11 +135,11 @@ Esta parte todavía forma parte de la evolución futura de MARCO.
 
 Pero representa bastante bien hacia dónde queremos ir.
 
-<!-- IMAGEN 2
-Sugerencia: mockup conceptual de gamificación en MARCO.
-Ejemplo: itinerario móvil + checkpoint / misión / lugar desbloqueado.
-Debe quedar claro visualmente que es una funcionalidad futura o concepto.
--->
+<img
+  src="https://raw.githubusercontent.com/ebarped/marcotravel-blog/main/006/assets/marco-descubre-tu-viaje-gamificacion.webp"
+  alt="Concepto de gamificación Descubre tu viaje de MARCO con misiones, checkpoints y desbloqueo de itinerarios."
+  style="width: 100%; height: auto;"
+/>
 
 <div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
 
