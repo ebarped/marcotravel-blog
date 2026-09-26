@@ -77,8 +77,6 @@ You enter your destination, dates, preferences and travel style and, from there,
 
 The goal is to give users a solid and simple foundation on which they can <strong style="color: #ff7f50ff;">build their own trip</strong>, use one place as their main source of information and manage plans collaboratively.
 
-<div aria-hidden="true" style="display:block; height:36px; min-height:36px; line-height:36px; font-size:1px;">&nbsp;</div>
-
 <div style="text-align: center; margin: 56px 0;">
   <a
     href="https://marcotravel.io/"
@@ -142,6 +140,8 @@ But it represents quite well where we want to go.
 The most useful answer is probably: it depends on what you need.
 
 If you want to answer a question, research a destination, find inspiration or talk through different possibilities, tools like ChatGPT can be incredibly useful. In fact, we also believe that general-purpose AI has made planning a trip much easier.
+
+<div aria-hidden="true" style="display:block; height:36px; min-height:36px; line-height:36px; font-size:1px;">&nbsp;</div>
 
 MARCO simply starts from the next step. When you no longer want to just talk about that trip, but instead <strong style="color: #ff7f50ff;">organize it, visualize it, modify it and share it</strong>.
 
