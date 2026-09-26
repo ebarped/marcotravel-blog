@@ -145,3 +145,4 @@ O MARCO parte simplesmente do passo seguinte. Quando já não queres apenas fala
 
 Por isso, não vemos necessariamente estas ferramentas como substitutas umas das outras. Porque imaginar uma viagem nunca foi tão fácil.
 
+<div aria-hidden="true" style="display:block; height:36px; min-height:36px; line-height:36px; font-size:1px;">&nbsp;</div>
