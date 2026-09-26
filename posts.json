@@ -73,5 +73,80 @@
     },
     "author": "Marco Team",
     "image": "005/assets/camino-santiago-variante-espiritual-primitivo.webp"
+  },
+  {
+    "slug": "mercados-navidad-europa-rutas",
+    "path": "006",
+    "title": {
+      "en": "Christmas Markets in Europe: 3 routes to experience them",
+      "es": "Mercados de Navidad en Europa: 3 rutas para vivirlos"
+    },
+    "date": "2026-09-23",
+    "excerpt": {
+      "en": "Discover 3 routes around Europe's best Christmas markets: Alsace, Germany and the Vienna-Prague route. Dates, tips and how to plan the trip.",
+      "es": "Descubre 3 rutas por los mejores mercados de Navidad de Europa: Alsacia, Alemania y la ruta Viena-Praga. Fechas, consejos y cómo organizar el viaje."
+    },
+    "author": "Marco Team",
+    "image": "006/assets/mercados-navidad-europa.webp"
+  },
+  {
+    "slug": "rutas-portugal-douro-porto",
+    "path": "007",
+    "title": {
+      "en": "Douro Valley and Porto Route: river, vineyards and city in 4 days",
+      "es": "Ruta por el Duero y Oporto: viñedos, río y ciudad en 4 días"
+    },
+    "date": "2026-09-30",
+    "excerpt": {
+      "en": "Discover how to combine Porto and the Douro Valley in a 4-day route: city, train ride along the river, wineries and tiled villages.",
+      "es": "Descubre cómo combinar Oporto y el valle del Duero en una ruta de 4 días: ciudad, tren junto al río, bodegas y pueblos con azulejos."
+    },
+    "author": "Marco Team",
+    "image": "007/assets/ruta-duero-porto-oporto.webp"
+  },
+  {
+    "slug": "canarias-invierno-rutas",
+    "path": "008",
+    "title": {
+      "en": "Canary Islands in Winter: islands, volcanoes and warm beaches",
+      "es": "Canarias en invierno: islas, volcanes y playas sin frío"
+    },
+    "date": "2026-10-07",
+    "excerpt": {
+      "en": "Discover why the Canary Islands are one of the best winter destinations: Tenerife, Gran Canaria and Lanzarote with volcano, dune and beach routes.",
+      "es": "Descubre por qué Canarias es uno de los mejores destinos de invierno: Tenerife, Gran Canaria y Lanzarote con rutas de volcanes, dunas y playas."
+    },
+    "author": "Marco Team",
+    "image": "008/assets/canarias-invierno-teide.webp"
+  },
+  {
+    "slug": "guia-practica-camino-santiago",
+    "path": "009",
+    "title": {
+      "en": "Practical Camino de Santiago Guide: stages, packing and budget",
+      "es": "Guía práctica del Camino de Santiago: etapas, equipaje y presupuesto"
+    },
+    "date": "2026-10-14",
+    "excerpt": {
+      "en": "Everything you need to know before walking the Camino de Santiago: the pilgrim credential and Compostela, how to plan stages, what to pack and what it costs.",
+      "es": "Todo lo que necesitas saber antes de hacer el Camino de Santiago: credencial y Compostela, cómo organizar etapas, qué llevar en la mochila y cuánto cuesta."
+    },
+    "author": "Marco Team",
+    "image": "009/assets/guia-practica-camino-santiago.webp"
+  },
+  {
+    "slug": "planificar-viaje-con-ia",
+    "path": "010",
+    "title": {
+      "en": "How to plan a trip with AI in 5 steps",
+      "es": "Cómo planificar un viaje con IA en 5 pasos"
+    },
+    "date": "2026-10-21",
+    "excerpt": {
+      "en": "Learn how to plan a trip with artificial intelligence in 5 steps: from the idea to the itinerary, with tips for personalising it and making the most of it while travelling.",
+      "es": "Aprende a planificar un viaje con inteligencia artificial en 5 pasos: de la idea al itinerario, con consejos para personalizar y aprovechar tu plan durante el viaje."
+    },
+    "author": "Marco Team",
+    "image": "010/assets/planificar-viaje-inteligencia-artificial.webp"
   }
 ]
