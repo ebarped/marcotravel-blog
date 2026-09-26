@@ -77,10 +77,24 @@ Indicas o teu destino, datas, preferências e forma de viajar e, a partir daí, 
 
 O objetivo é dar aos utilizadores uma base sólida e simples sobre a qual possam <strong style="color: #ff7f50ff;">construir a sua própria viagem</strong>, utilizar um único lugar como fonte de informação e gerir os planos de forma colaborativa.
 
-<div aria-hidden="true" style="display:block; height:36px; min-height:36px; line-height:36px; font-size:1px;">&nbsp;</div>
-
-<div style="text-align: center; margin: 48px 0;">
-  <a href="https://marcotravel.io/" style="display: inline-block; background-color: #2563eb; color: white; text-decoration: none; padding: 14px 28px; border-radius: 999px; font-weight: 700; font-size: 16px;">
+<div style="text-align: center; margin: 56px 0;">
+  <a
+    href="https://marcotravel.io/"
+    style="
+      display: inline-block;
+      min-width: 260px;
+      background-color: #2563eb;
+      color: #ffffff;
+      text-decoration: none;
+      padding: 18px 36px;
+      border-radius: 999px;
+      font-weight: 700;
+      font-size: 18px;
+      line-height: 1.2;
+      text-align: center;
+      box-shadow: 0 6px 18px rgba(37, 99, 235, 0.18);
+    "
+  >
     Planeia a tua próxima viagem
   </a>
 </div>
