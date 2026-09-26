@@ -73,5 +73,22 @@
     },
     "author": "Marco Team",
     "image": "005/assets/camino-santiago-variante-espiritual-primitivo.webp"
+  },
+  {
+    "slug": "marco-vs-chatgpt-planificar-viaje-ia",
+    "path": "006",
+    "title": {
+      "en": "MARCO vs ChatGPT: two ways to plan a trip with AI",
+      "es": "MARCO vs ChatGPT: dos formas de planificar un viaje con IA",
+      "pt": "MARCO vs ChatGPT: duas formas de planear uma viagem com IA"
+    },
+    "date": "2026-09-05",
+    "excerpt": {
+      "en": "ChatGPT or an AI travel planner? Discover the differences between using a general-purpose AI and MARCO to organize, share and enjoy your next trip.",
+      "es": "¿ChatGPT o un planificador de viajes con IA? Descubre las diferencias entre utilizar una IA generalista y MARCO para organizar, compartir y disfrutar tu próximo viaje.",
+      "pt": "ChatGPT ou um planeador de viagens com IA? Descobre as diferenças entre utilizar uma IA generalista e o MARCO para organizar, partilhar e aproveitar a tua próxima viagem."
+    },
+    "author": "Marco Team",
+    "image": "006/assets/marco-vs-chatgpt-conversacion-viaje-organizado.webp"
   }
 ]
