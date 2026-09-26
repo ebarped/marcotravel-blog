@@ -77,8 +77,6 @@ Indicas tu destino, fechas, preferencias y forma de viajar y, a partir de ahí, 
 
 El objetivo es dar a los usuarios una base sólida y sencilla sobre la que puedan <strong style="color: #ff7f50ff;">construir su propio viaje</strong>, utilizar un único lugar como fuente de información y gestionar los planes de forma colaborativa.
 
-<div aria-hidden="true" style="display:block; height:36px; min-height:36px; line-height:36px; font-size:1px;">&nbsp;</div>
-
 <div style="text-align: center; margin: 56px 0;">
   <a
     href="https://marcotravel.io/"
@@ -147,3 +145,4 @@ MARCO parte simplemente del siguiente paso. Cuando ya no quieres únicamente hab
 
 Por eso no pensamos necesariamente en estas herramientas como sustitutas unas de otras. Porque imaginar un viaje nunca había sido tan fácil.
 
+<div aria-hidden="true" style="display:block; height:36px; min-height:36px; line-height:36px; font-size:1px;">&nbsp;</div>
