@@ -147,4 +147,3 @@ MARCO parte simplemente del siguiente paso. Cuando ya no quieres únicamente hab
 
 Por eso no pensamos necesariamente en estas herramientas como sustitutas unas de otras. Porque imaginar un viaje nunca había sido tan fácil.
 
-<div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
