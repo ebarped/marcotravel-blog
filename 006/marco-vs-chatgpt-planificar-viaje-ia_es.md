@@ -119,7 +119,7 @@ MARCO está centrado en una sola. <strong style="color: #ff7f50ff;">Ser tu compa
 | Construir jornadas manualmente | No como planificador dedicado | Sí |
 | Compartir un espacio de viaje con el grupo | No como experiencia específica de viaje | Sí |
 | Gestión de gastos del viaje | No como función específica de viaje | Sí |
-| Experiencias gamificadas durante el viaje | No como experiencia específica | En desarrollo |
+| Experiencias gamificadas durante el viaje | No como experiencia específica | En camino |
 
 <div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
 
