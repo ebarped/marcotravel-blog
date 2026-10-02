@@ -60,7 +60,7 @@ And then comes that universal classic of every group trip:
 AI has helped generate the information, but now you need to <strong style="color: #ff7f50ff;">turn that information into an organized experience</strong>.
 
 <img
-  src="https://raw.githubusercontent.com/ebarped/marcotravel-blog/main/006/assets/marco-vs-chatgpt-conversacion-viaje-organizado.webp"
+  src="https://raw.githubusercontent.com/ebarped/marcotravel-blog/main/006/assets/marco-vs-chatgpt-conversation-organized-trip_en.webp"
   alt="Comparison between planning a trip with ChatGPT and organizing it visually with MARCO."
   style="width: 100%; height: auto;"
 />
@@ -124,7 +124,7 @@ This is still part of MARCO's future development.
 But it represents quite well where we want to go.
 
 <img
-  src="https://raw.githubusercontent.com/ebarped/marcotravel-blog/main/006/assets/marco-descubre-tu-viaje-gamificacion.webp"
+  src="https://raw.githubusercontent.com/ebarped/marcotravel-blog/main/006/assets/marco-discover-your-trip-gamification_en.webp"
   alt="MARCO Discover Your Trip gamification concept featuring missions, checkpoints and itinerary unlocking."
   style="width: 100%; height: auto;"
 />
