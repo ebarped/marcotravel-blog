@@ -13,9 +13,9 @@ Hace no demasiado tiempo, escribir algo así en internet no servía de mucho. Ho
 
 Bastante cómodo.
 
-Y, sobre todo, muchísimo mejor que empezar con veinte pestañas abiertas sin saber muy bien qué hacer con ellas.
+Y, sobre todo, muchísimo mejor que empezar con veinte pestañas abiertas y recomendaciones perdidas en chats sin saber muy bien por donde empezar .
 
-La <strong style="color: #ff7f50ff;">inteligencia artificial aplicada a los viajes</strong> ha cambiado por completo la forma en la que buscamos inspiración y organizamos nuestras escapadas. ChatGPT, Gemini, Claude y otras herramientas de IA generalista pueden convertirse en grandes aliados durante ese proceso. Pero hay una diferencia importante entre pedirle a una IA que te ayude a pensar un viaje y utilizar una herramienta creada específicamente para organizarlo.
+La <strong style="color: #ff7f50ff;">inteligencia artificial aplicada a los viajes</strong> ha cambiado por completo la forma en la que buscamos inspiración y organizamos nuestras escapadas. ChatGPT, Gemini, Claude y otras herramientas de IA pueden convertirse en grandes aliados durante ese proceso. Pero hay una diferencia importante entre pedirle a una IA que te ayude a pensar un viaje y utilizar una herramienta creada específicamente para organizarlo.
 
 Y ahí es donde entra MARCO.
 
@@ -27,15 +27,13 @@ Porque el reto ya no es solamente conseguir una lista de sitios interesantes. El
 
 Una IA generalista puede ser especialmente útil durante las primeras fases de planificación. Puedes contarle dónde quieres viajar, cuántos días tienes, cuál es tu presupuesto o qué tipo de lugares te interesan y pedirle que construya una propuesta desde cero.
 
-También puedes hacer preguntas mucho más concretas: qué barrios visitar, dónde comer, cómo distribuir varios monumentos durante un día o qué alternativas existen cuando empieza a llover justo el día que habías reservado para recorrer media ciudad andando. Además, herramientas como ChatGPT pueden consultar información actual en internet y utilizar el contexto de la conversación para ir modificando sus propuestas.
+También puedes hacer preguntas mucho más concretas: dónde comer, cómo distribuir varios monumentos durante un día o qué alternativas existen cuando empieza a llover justo el día que habías reservado para recorrer media ciudad andando. Además, herramientas como ChatGPT pueden consultar información actual en internet y utilizar el contexto de la conversación para ir modificando sus propuestas.
 
 Puedes pedir algo como:
 
-“Cambia el museo del segundo día por un plan al aire libre”.
+“Cambia el museo del segundo día por un plan al aire libre”. Y unos segundos después tienes una alternativa.
 
-Y unos segundos después tienes una alternativa.
-
-Por eso una <strong style="color: #ff7f50ff;">IA generalista para planificar viajes</strong> puede ser una herramienta fantástica para buscar inspiración, resolver dudas o descubrir posibilidades que quizá no habías considerado. El problema aparece un poquito después.
+Por eso una IA generalista para planificar viajes puede ser una herramienta fantástica para buscar inspiración, resolver dudas o descubrir posibilidades que quizá no habías considerado. El problema aparece un poquito después.
 
 <div aria-hidden="true" style="display:block; height:36px; min-height:36px; line-height:36px; font-size:1px;">&nbsp;</div>
 
@@ -45,15 +43,15 @@ Imagina que ya tienes una propuesta de cinco días. Ahora toca utilizarla. Quier
 
 De repente, aquella respuesta tan cómoda empieza a salir del chat:
 
-🗺️ Abres Maps.
+➡️ Abres Maps.
 
-📍Guardas una ubicación.
+➡️ Guardas una ubicación.
 
-💬Copias una recomendación en WhatsApp.
+➡️ Copias una recomendación en WhatsApp.
 
-🎶Alguien manda un TikTok.
+➡️ Alguien manda un vídeo por TikTok de "10 planes que no te puedes perder".
 
-🍴Otra persona propone un restaurante.
+➡️ Otra persona propone un restaurante.
 
 Y aparece ese clásico universal de cualquier viaje en grupo:
 
@@ -73,9 +71,9 @@ La IA ha ayudado a generar información, pero ahora necesitas <strong style="col
 
 MARCO parte de una idea diferente. En lugar de utilizar una conversación como punto final, utilizamos la inteligencia artificial para construir la base de un <strong style="color: #ff7f50ff;">itinerario de viaje estructurado</strong>.
 
-Indicas tu destino, fechas, preferencias y forma de viajar y, a partir de ahí, obtienes una propuesta organizada que puedes consultar y modificar dentro de la propia plataforma. El viaje deja de ser únicamente una respuesta escrita. Puedes visualizar los planes por días, consultar dónde están en el mapa, cambiar actividades, proponer alternativas o construir partes del itinerario desde cero.
+Indicas tu destino, fechas, preferencias y forma de viajar y, a partir de ahí, obtienes una propuesta organizada que puedes consultar y modificar dentro de la propia plataforma. El viaje deja de ser únicamente una respuesta escrita. Puedes visualizar los planes por días, consultar dónde están en el mapa, cambiar actividades, proponer alternativas al resto del grupo, añadir gastos o construir partes del itinerario desde cero.
 
-El objetivo es dar a los usuarios una base sólida y sencilla sobre la que puedan <strong style="color: #ff7f50ff;">construir su propio viaje</strong>, utilizar un único lugar como fuente de información y gestionar los planes de forma colaborativa.
+El objetivo es dar a los usuarios una base sólida y sencilla sobre la que puedan construir su propio viaje, utilizar un único lugar como fuente de información y gestionar los planes de forma colaborativa.
 
 <div style="text-align: center; margin: 56px 0;">
   <a
@@ -111,17 +109,15 @@ Y precisamente por eso una parte importante de MARCO está pensada alrededor del
 
 Compartir el viaje, incorporar a otros viajeros y utilizar funcionalidades de grupo como votaciones o gestión de gastos permite centralizar muchas de esas decisiones que normalmente terminan repartidas en muchos sitios diferentes.
 
-Una IA generalista también puede compartir conversaciones, proyectos o información entre usuarios dependiendo de la herramienta utilizada. MARCO está diseñado para que ese espacio compartido sea <strong style="color: #ff7f50ff;">el eje central del viaje</strong>.
+Una IA generalista también puede compartir conversaciones, proyectos o información entre usuarios dependiendo de la herramienta utilizada, pero MARCO está diseñado para que ese espacio compartido sea <strong style="color: #ff7f50ff;">el eje central del viaje</strong>.
 
 <div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
 
 ## Del planificador al compañero de viaje
 
-Nuestra visión no termina cuando tienes el itinerario preparado. Queremos que MARCO pueda acompañarte también mientras descubres el destino y convertir algunos elementos del viaje en experiencias más interactivas.
+Nuestra visión no termina cuando tienes el itinerario preparado. Queremos que MARCO pueda acompañarte también mientras descubres el destino y convertir algunos elementos del viaje en experiencias más interactivas. Retos, misiones, checkpoints, preguntas, descubrimiento de lugares o experiencias locales son algunas de las posibilidades que queremos explorar mediante gamificación.
 
-<strong style="color: #ff7f50ff;">Retos, misiones, checkpoints, preguntas, descubrimiento de lugares o experiencias locales</strong> son algunas de las posibilidades que queremos explorar mediante gamificación.
-
-Imagínate recorrer una ciudad y que tu itinerario no sea únicamente una lista que vas tachando. Puede proponerte pequeños retos, ayudarte a descubrir lugares que normalmente pasarías por alto o convertir el recorrido en una experiencia compartida con las personas con las que estás viajando.
+Imagínate recorrer una ciudad y que tu itinerario no sea únicamente una lista que vas tachando. Puede proponerte pequeños retos, ayudarte a descubrir lugares que normalmente pasarías por alto o simplemente para picarte con tus amigos a ver quien saca más puntuación en ese viaje.
 
 Esta parte todavía forma parte de la evolución futura de MARCO.
 
@@ -137,12 +133,12 @@ Pero representa bastante bien hacia dónde queremos ir.
 
 ## Entonces… ¿MARCO o ChatGPT para planificar un viaje?
 
-Probablemente la respuesta más útil sea: depende de lo que necesites.
+Probablemente dependa del tipo de viajero que seas.
 
 Si quieres resolver una duda, investigar un destino, buscar inspiración o conversar sobre diferentes posibilidades, herramientas como ChatGPT pueden ser increíblemente útiles. De hecho, nosotros también creemos que la IA generalista ha hecho que preparar un viaje sea mucho más sencillo.
 
-MARCO parte simplemente del siguiente paso. Cuando ya no quieres únicamente hablar sobre ese viaje, sino <strong style="color: #ff7f50ff;">organizarlo, visualizarlo, modificarlo y compartirlo</strong>.
+MARCO parte simplemente del siguiente paso. Cuando ya no quieres únicamente hablar sobre ese viaje, sino <strong style="color: #ff7f50ff;">organizarlo, visualizarlo, modificarlo y compartirlo</strong>. Por eso no pensamos necesariamente en estas herramientas como sustitutas unas de otras.
 
-Por eso no pensamos necesariamente en estas herramientas como sustitutas unas de otras. Porque imaginar un viaje nunca había sido tan fácil.
+De lo que no cabe duda es que viajar nunca había sido tan sencillo.
 
 <div aria-hidden="true" style="display:block; height:36px; min-height:36px; line-height:36px; font-size:1px;">&nbsp;</div>
