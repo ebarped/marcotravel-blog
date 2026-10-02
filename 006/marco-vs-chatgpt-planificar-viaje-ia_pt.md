@@ -60,7 +60,7 @@ E aparece aquele clássico universal de qualquer viagem em grupo:
 A IA ajudou a gerar informação, mas agora precisas de <strong style="color: #ff7f50ff;">transformar essa informação numa experiência organizada</strong>.
 
 <img
-  src="https://raw.githubusercontent.com/ebarped/marcotravel-blog/main/006/assets/marco-vs-chatgpt-conversacion-viaje-organizado.webp"
+  src="https://raw.githubusercontent.com/ebarped/marcotravel-blog/main/006/assets/marco-vs-chatgpt-conversa-viagem-organizada_pt.webp"
   alt="Comparação entre planear uma viagem com o ChatGPT e organizá-la visualmente com o MARCO."
   style="width: 100%; height: auto;"
 />
@@ -124,7 +124,7 @@ Esta parte ainda faz parte da evolução futura do MARCO.
 Mas representa bastante bem para onde queremos ir.
 
 <img
-  src="https://raw.githubusercontent.com/ebarped/marcotravel-blog/main/006/assets/marco-descubre-tu-viaje-gamificacion.webp"
+  src="https://raw.githubusercontent.com/ebarped/marcotravel-blog/main/006/assets/marco-descobre-a-tua-viagem-gamificacao_pt.webp"
   alt="Conceito de gamificação Descobre a tua viagem do MARCO com missões, checkpoints e desbloqueio de itinerários."
   style="width: 100%; height: auto;"
 />
