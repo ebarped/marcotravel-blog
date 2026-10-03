@@ -79,9 +79,25 @@ The journey lasts approximately an hour and a half. However, departure times dep
 
 There is also a land alternative for anyone who prefers to complete the entire route on foot, but the boat journey is precisely one of the features that makes this variant so different. The Spiritual Variant of the Portuguese Way is a particularly interesting option if you want to combine the Camino with nature, coastline, heritage and gastronomy without necessarily committing to a route lasting several weeks.
 
-<div style="text-align: center; margin: 48px 0;">
-  <a href="https://marcotravel.io/" style="display: inline-block; background-color: #2563eb; color: white; text-decoration: none; padding: 14px 28px; border-radius: 999px; font-weight: 700; font-size: 16px;">
-    I want to do this route
+<div style="text-align: center; margin: 56px 0;">
+  <a
+    href="https://marcotravel.io/"
+    style="
+      display: inline-block;
+      min-width: 260px;
+      background-color: #2563eb;
+      color: #ffffff;
+      text-decoration: none;
+      padding: 18px 36px;
+      border-radius: 999px;
+      font-weight: 700;
+      font-size: 18px;
+      line-height: 1.2;
+      text-align: center;
+      box-shadow: 0 6px 18px rgba(37, 99, 235, 0.18);
+    "
+  >
+    Plan your next trip
   </a>
 </div>
 
@@ -162,13 +178,5 @@ We want to help turn all that information into an organised journey adapted to t
 Because walking the Camino is not only about reaching Santiago.
 
 <div aria-hidden="true" style="display:block; height:36px; min-height:36px; line-height:36px; font-size:1px;">&nbsp;</div>
-
-<p align="left">
-  <a href="https://play.google.com/store/apps/details?id=io.marcotravel.marco&pcampaignid=web_share" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/ebarped/marcotravel-blog/main/001/assets/google-play-badge.png"
-      alt="MARCO is available on Google Play"
-      width="220"
-    />
   </a>
 </p>
