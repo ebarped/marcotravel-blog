@@ -79,12 +79,27 @@ El trayecto dura aproximadamente una hora y media. No obstante, los horarios de 
 
 También existe una alternativa terrestre para quienes quieran realizar todo el recorrido caminando, pero la navegación es precisamente una de las características que hacen tan diferente a esta variante. La Variante Espiritual del Camino Portugués es una opción especialmente interesante si quieres combinar Camino, naturaleza, costa, patrimonio y gastronomía sin meterte necesariamente en una ruta de varias semanas.
 
-<div style="text-align: center; margin: 48px 0;">
-  <a href="https://marcotravel.io/" style="display: inline-block; background-color: #2563eb; color: white; text-decoration: none; padding: 14px 28px; border-radius: 999px; font-weight: 700; font-size: 16px;">
-    Quiero hacer esta ruta
+<div style="text-align: center; margin: 56px 0;">
+  <a
+    href="https://marcotravel.io/"
+    style="
+      display: inline-block;
+      min-width: 260px;
+      background-color: #2563eb;
+      color: #ffffff;
+      text-decoration: none;
+      padding: 18px 36px;
+      border-radius: 999px;
+      font-weight: 700;
+      font-size: 18px;
+      line-height: 1.2;
+      text-align: center;
+      box-shadow: 0 6px 18px rgba(37, 99, 235, 0.18);
+    "
+  >
+    Planea tu próximo viaje
   </a>
 </div>
-
 <div aria-hidden="true" style="display:block; width:100%; height:2px; line-height:2px; font-size:1px; background-color:#eadfce; margin:52px 0;">&nbsp;</div>
 
 ## Camino Primitivo: volver al origen del Camino de Santiago
@@ -166,13 +181,3 @@ Porque hacer el Camino no consiste únicamente en llegar a Santiago.
 **El Camino es todo lo que ocurre antes y durante.**
 
 <div aria-hidden="true" style="display:block; height:36px; min-height:36px; line-height:36px; font-size:1px;">&nbsp;</div>
-
-<p align="left">
-  <a href="https://play.google.com/store/apps/details?id=io.marcotravel.marco&pcampaignid=web_share" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/ebarped/marcotravel-blog/main/001/assets/google-play-badge.png"
-      alt="MARCO disponible en Google Play"
-      width="220"
-    />
-  </a>
-</p>

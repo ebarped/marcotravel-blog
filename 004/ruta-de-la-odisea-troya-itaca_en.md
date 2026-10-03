@@ -13,9 +13,25 @@ And here's the best part: Homer never left a map, but historians and geographers
 
 With all that material, at <span style="color: #FF7F50; font-weight: bold;">Marco</span> we've put together a real 15-day itinerary through Turkey, Italy, and Greece that follows the *nostos* (the journey home) episode by episode: a literary route across the Mediterranean as mythical as it is visitable, and one that happens to tell one of the greatest stories ever written.
 
-<div style="text-align: center; margin: 32px 0;">
-  <a href="https://marcotravel.io/" style="display: inline-block; background-color: #2563eb; color: white; text-decoration: none; padding: 14px 28px; border-radius: 999px; font-weight: 700; font-size: 16px;">
-    Plan Your Odyssey
+<div style="text-align: center; margin: 56px 0;">
+  <a
+    href="https://marcotravel.io/"
+    style="
+      display: inline-block;
+      min-width: 260px;
+      background-color: #2563eb;
+      color: #ffffff;
+      text-decoration: none;
+      padding: 18px 36px;
+      border-radius: 999px;
+      font-weight: 700;
+      font-size: 18px;
+      line-height: 1.2;
+      text-align: center;
+      box-shadow: 0 6px 18px rgba(37, 99, 235, 0.18);
+    "
+  >
+    Plan your next trip
   </a>
 </div>
 
@@ -106,12 +122,6 @@ That's what [<span style="color: #FF7F50; text-decoration: underline; font-weigh
 
 And if this story has hooked you, stick around: we're already busy with the next one. 🚀
 
-<p align="left">
-  <a href="https://play.google.com/store/apps/details?id=io.marcotravel.marco&pcampaignid=web_share" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/ebarped/marcotravel-blog/main/001/assets/google-play-badge.png"
-      alt="Download MARCO on Google Play"
-      width="220"
-    />
+<div aria-hidden="true" style="display:block; height:36px; min-height:36px; line-height:36px; font-size:1px;">&nbsp;</div>
   </a>
 </p>

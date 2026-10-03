@@ -79,9 +79,25 @@ O trajeto dura aproximadamente uma hora e meia. No entanto, os horários de part
 
 Também existe uma alternativa terrestre para quem quiser fazer todo o percurso a pé, mas a navegação é precisamente uma das características que tornam esta variante tão diferente. A Variante Espiritual do Caminho Português é uma opção especialmente interessante se quiser combinar Caminho, natureza, costa, património e gastronomia sem necessariamente se aventurar numa rota de várias semanas.
 
-<div style="text-align: center; margin: 48px 0;">
-  <a href="https://marcotravel.io/" style="display: inline-block; background-color: #2563eb; color: white; text-decoration: none; padding: 14px 28px; border-radius: 999px; font-weight: 700; font-size: 16px;">
-    Quero fazer esta rota
+<div style="text-align: center; margin: 56px 0;">
+  <a
+    href="https://marcotravel.io/"
+    style="
+      display: inline-block;
+      min-width: 260px;
+      background-color: #2563eb;
+      color: #ffffff;
+      text-decoration: none;
+      padding: 18px 36px;
+      border-radius: 999px;
+      font-weight: 700;
+      font-size: 18px;
+      line-height: 1.2;
+      text-align: center;
+      box-shadow: 0 6px 18px rgba(37, 99, 235, 0.18);
+    "
+  >
+    Planeje sua próxima viagem
   </a>
 </div>
 
@@ -166,13 +182,3 @@ Porque fazer o Caminho não consiste apenas em chegar a Santiago.
 **O Caminho é tudo o que acontece antes e durante.**
 
 <div aria-hidden="true" style="display:block; height:36px; min-height:36px; line-height:36px; font-size:1px;">&nbsp;</div>
-
-<p align="left">
-  <a href="https://play.google.com/store/apps/details?id=io.marcotravel.marco&pcampaignid=web_share" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/ebarped/marcotravel-blog/main/001/assets/google-play-badge.png"
-      alt="MARCO disponível no Google Play"
-      width="220"
-    />
-  </a>
-</p>
