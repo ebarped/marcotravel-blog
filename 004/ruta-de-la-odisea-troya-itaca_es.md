@@ -13,9 +13,25 @@ Y aquí está lo mejor de todo: Homero nunca dejó un mapa, pero historiadores y
 
 Con todo ese material, desde <span style="color: #FF7F50; font-weight: bold;">Marco</span> hemos diseñado un itinerario real de 15 días por Turquía, Italia y Grecia que sigue el *nostos* (el regreso a casa) episodio a episodio: una ruta literaria por el Mediterráneo tan mitológica como visitable, que además cuenta una de las mejores historias jamás escritas.
 
-<div style="text-align: center; margin: 32px 0;">
-  <a href="https://marcotravel.io/" style="display: inline-block; background-color: #2563eb; color: white; text-decoration: none; padding: 14px 28px; border-radius: 999px; font-weight: 700; font-size: 16px;">
-    Planea tu Odisea
+<div style="text-align: center; margin: 56px 0;">
+  <a
+    href="https://marcotravel.io/"
+    style="
+      display: inline-block;
+      min-width: 260px;
+      background-color: #2563eb;
+      color: #ffffff;
+      text-decoration: none;
+      padding: 18px 36px;
+      border-radius: 999px;
+      font-weight: 700;
+      font-size: 18px;
+      line-height: 1.2;
+      text-align: center;
+      box-shadow: 0 6px 18px rgba(37, 99, 235, 0.18);
+    "
+  >
+    Planea tu próximo viaje
   </a>
 </div>
 
@@ -106,12 +122,4 @@ Para eso está [<span style="color: #FF7F50; text-decoration: underline; font-we
 
 Y si esta historia te ha enganchado, quédate por aquí: ya estamos liados con la próxima. 🚀
 
-<p align="left">
-  <a href="https://play.google.com/store/apps/details?id=io.marcotravel.marco&pcampaignid=web_share" target="_blank" rel="noopener noreferrer">
-    <img
-      src="https://raw.githubusercontent.com/ebarped/marcotravel-blog/main/001/assets/google-play-badge.png"
-      alt="Descarga MARCO en Google Play"
-      width="220"
-    />
-  </a>
-</p>
+<div aria-hidden="true" style="display:block; height:36px; min-height:36px; line-height:36px; font-size:1px;">&nbsp;</div>
