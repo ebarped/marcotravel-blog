@@ -90,5 +90,22 @@
     },
     "author": "Marco Team",
     "image": "006/assets/marco-vs-chatgpt-planificar-viaje-florencia.webp"
+  },
+  {
+    "slug": "lean-startup-como-lo-aplicamos-en-marco",
+    "path": "007",
+    "title": {
+      "es": "Lean Startup: qué es y cómo lo aplicamos en MARCO",
+      "en": "Lean Startup: what it is and how we apply it at MARCO",
+      "pt": "Lean Startup: o que é e como a aplicamos na MARCO"
+    },
+    "date": "2026-11-08",
+    "excerpt": {
+      "es": "Descubre qué es Lean Startup y cómo aplicamos entrevistas, experimentos y aprendizaje del mercado para desarrollar MARCO Travel.",
+      "en": "Discover how Lean Startup helps MARCO Travel validate ideas through interviews, experiments and real feedback from travellers.",
+      "pt": "Descobre como aplicamos Lean Startup na MARCO Travel através de entrevistas, experiências e aprendizagem com o mercado."
+    },
+    "author": "Marco Team",
+    "image": "007/assets/marco-lean-startup-cohete.webp"
   }
 ]
